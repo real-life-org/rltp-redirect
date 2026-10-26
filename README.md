@@ -7,3 +7,7 @@ source is [`real-life-org/trust-protocol`](https://github.com/real-life-org/trus
 GitHub Pages serves `404.html` for every unknown path, so any old link
 such as `rltp.real-life.org/simulator/graph.html` lands on the same path
 under the new domain.
+
+## License
+
+[MIT-0](LICENSE)
